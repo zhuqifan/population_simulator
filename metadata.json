@@ -1,0 +1,5 @@
+{
+  "name": "人口结构模拟器",
+  "description": "交互式人口可视化工具，探索生育率、生育时间和人口结构随时间变化的关系。",
+  "requestFramePermissions": []
+}
